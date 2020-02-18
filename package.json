@@ -1,0 +1,8 @@
+{
+  "name": "react-testing-auto-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chaiyilin/react-testing-auto-serve.git",
+  "author": "chaiyilin@hotmail.com",
+  "license": "MIT"
+}
